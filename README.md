@@ -12,3 +12,5 @@ Hola, mi nombre es Alex Muñoz,Técnico de Nivel Superior en Administracion de R
 
 Alex Muñoz
 lomejor77@gmail.com
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lomejor77&langs_count=8)
