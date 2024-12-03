@@ -5,8 +5,10 @@ Hola, mi nombre es Alex Muñoz,Técnico de Nivel Superior en Administracion de R
 ## Mis conocimientos
 
 1. Lenguaje PHP intermedio
-2. Programacioón avanzada en Scratch
-3. Administracion de consola y uso de herramientas de Google for Education 
+2. Programación FRONT-END VUE
+3. Programacioón avanzada en Scratch
+4. Administracion de consola y uso de herramientas de Google for Education
+   
 
 ## Mi contacto
 
@@ -14,16 +16,14 @@ Alex Muñoz
 lomejor77@gmail.com
 
 ##
-## About me
-
-Hello, my name is Alex Muñoz, Higher Level Technician in Network Administration and Computer Support, a self-taught in PHP language and soon android trainee programmer
+## Hello, my name is Alex Muñoz, Higher Level Technician in Network Administration and Computer Support, a self-taught PHP language and soon to be an Android trainee programmer. 
 
 ## My knowledge
 
 1. Intermediate PHP language
-2. Advanced programming in Scratch
-3. Console administration and use of Google for Education tools
-
+2. FRONT-END VUE programming Trainee
+3. Advanced programming in Scratch
+4. Console administration and use of Google for Education tools
 ## My contact
 
 Alex Munoz
